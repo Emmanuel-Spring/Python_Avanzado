@@ -7,8 +7,6 @@ print(resultado)
 
 print(a)
 print("Gracias por venir")
-ab = 0
-
 
 
 
